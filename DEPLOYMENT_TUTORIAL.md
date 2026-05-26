@@ -15,7 +15,7 @@ You push to main
 GitHub Actions triggers
       │
       ▼
-Workflow SSHes into your EC2 instance
+Workflow SSHes into your EC2 instance (using built-in SSH — no third-party action)
       │
       ▼
 Runs: git pull → copies files to /var/www/jungleio/
